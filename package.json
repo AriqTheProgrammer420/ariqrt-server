@@ -1,6 +1,7 @@
 {
   "name": "ariqrt-walkie",
   "version": "1.0.0",
+  "description": "Simple WebRTC walkie‑talkie app with Socket.IO signalling.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
